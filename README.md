@@ -1,4 +1,4 @@
-Scripts I use to help maintain symlinks with Real-debrid
+Scripts I use to help maintain symlinks with Real-debrid and organise my library.
 
 # Discard
 Created by @west
