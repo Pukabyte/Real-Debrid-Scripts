@@ -16,7 +16,4 @@ docker volume prune -af
 echo "Composing & updating Zurg..."
 docker compose up -d
 
-echo "Waiting for Zurg to initialise..."
-sleep 30
-
 docker start plex radarr radarr4k radarr4kdv radarranime sonarr sonarr4k sonarr4kdv sonarranime autoscan prowlarr petio petio-mongo rdtclient
